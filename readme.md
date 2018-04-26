@@ -1,6 +1,6 @@
 ## A vanilla, CRUD JS application for counting calories in meals.
 
-### Add, edit an delete meals to calculate the total calories they add to your diet.  
+### Add, edit and delete meals to calculate the total calories they add to your diet.  
 
 #### The data persists to local storage.
 
